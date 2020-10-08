@@ -12,4 +12,5 @@ Superium plus is a all-in-one google chrome extension for superium.net that adds
 * Should work fine now!
 
 # submitting own themes
-You can submit your own themes, just send me a .css file and i will add your theme in the next release. You will be mentioned as author.
+1. You can submit your own themes, just send me a .css file and i will add your theme in the next release. You will be mentioned as author.
+2. The other way to submit own theme is create a pull request with changed content.js that includes your own theme.
