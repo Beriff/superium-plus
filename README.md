@@ -10,3 +10,6 @@ Superium plus is a all-in-one google chrome extension for superium.net that adds
 * After that, choose "load unpacked extension" option
 * In the popped-up window select the folder with these two files
 * Should work fine now!
+
+# submitting own themes
+You can submit your own themes, just send me a .css file and i will add your theme in the next release. You will be mentioned as author.
