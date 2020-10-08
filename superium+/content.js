@@ -250,7 +250,7 @@ if (window.location.pathname == "/Shop/") {
     }
 
     apply()
-} else {
+} else if (/\/Shop\/\d+/.test(window.location.pathname)) {
     let owners = httpGetAsync(ownersRequest, function(text) {
 
     var ownersList = JSON.parse(text)
